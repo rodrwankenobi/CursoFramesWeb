@@ -1,4 +1,4 @@
-angular.module([
+angular.module("primeiraApp").config([
     "$stateProvider",
     "$urlRouterProvider",
     function($stateProvider, $urlRouterProvider){
